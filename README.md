@@ -9,7 +9,6 @@
         </ul>
     </ol>
     <ol style="padding: 0; list-style-type: none; display: flex; flex-direction: row; justify-content: center; align-items: center; position: relative; z-index: 2; flex-wrap: wrap; background: #d6c8bb;">
-
         <li class="buttons" style="background-image: linear-gradient( 144deg, rgb(248,151,56) 0%, rgb(148,64,153) 100%); width: 33.3333%; display: flex; align-items: baseline; justify-content: center; font-size: 45px;  column-gap: 23px; height: 100%; box-shadow: 0px 0px 9px 5px rgba(188,98,114,0.57); padding: 26px 0; min-width: 345px;">
             <img src="https://i.ibb.co/gyC5SfT/icon-insta.png" alt="">
             <a href="" style="text-decoration: none; color: #fff; font-family: 'system-ui'; font-weight: 100; line-height: 0.9; font-size: 40px">INSTAGRAM</a>
