@@ -1,5 +1,4 @@
 <ul class="content" style="background: #d5c9bd; position: relative; top: 43px; left: -140px; z-index: 1; width: 93vw; margin: 0 auto; padding: 0;">
-
 <ul style="overflow: hidden; padding: 0; background: linear-gradient(304deg, rgba(227,217,207,1) 0%, rgba(141,104,81,1) 100%); background-repeat: no-repeat; background-size: 100% 867px; line-height: 0;">
     <ol style="padding: 0; list-style-type: none; background: url(https://i.ibb.co/xMrBpkM/Main-screen-bg.png) no-repeat; background-size: cover; width: 100%; height: 852px;">
         <ul style="position: relative; z-index: 1; display: flex; justify-content: center; align-items: center; padding: 0;">
@@ -13,17 +12,14 @@
             <img src="https://i.ibb.co/gyC5SfT/icon-insta.png" alt="">
             <a href="" style="text-decoration: none; color: #fff; font-family: 'system-ui'; font-weight: 100; line-height: 0.9; font-size: 40px">INSTAGRAM</a>
         </li>
-
         <li class="buttons" style="width: 33.3333%; height: 100%; display: flex; align-items: center; justify-content: center; font-size: 45px; background: #fdfa00; column-gap: 23px; padding: 17px 0; box-shadow: 0px 0px 9px 5px rgba(244,241,0,1); min-width: 345px;">
             <img src="https://i.ibb.co/k82zz0N/icon-spapchat.png" alt="">
             <a href="" style="text-decoration: none; color: #000; font-family: 'system-ui'; font-weight: 100; line-height: 0.9; font-size: 40px">SNAP CHAT</a>
         </li>
-
         <li class="buttons" style="background: #00a8ea; width: 33.3333%; height: 100%; display: flex; align-items: baseline; justify-content: center; font-size: 45px; column-gap: 23px; padding: 26px 0; box-shadow: 0px 0px 9px 5px rgba(0,168,234,1); min-width: 345px;">
             <img src="https://i.ibb.co/7VkVM6T/icon-onyfans.png" alt="">
             <a href="" style="text-decoration: none; color: #fff; font-family: 'system-ui'; font-weight: 100; line-height: 0.7; font-size: 40px">ONLY FANS</a>
         </li>
-
     </ol>
     <ol style="padding: 0; list-style-type: none; background: #d5c9bd url(https://i.ibb.co/xMrBpkM/Main-screen-bg.png); display: flex; flex-direction: row; background-size: cover; align-items: flex-end; flex-wrap: wrap;">
         <li style="width: 46%;">
@@ -75,7 +71,6 @@
             <img src="https://i.ibb.co/sbFRCPq/Screen-4-photo.png" alt="" style="margin-top: 50px; margin-bottom: 100px;">
         </li>
     </ol>
-
     <ol style="margin-top: 50px; background: #d5c9bd; font-size: 30px; line-height: 0.6; font-family: system-ui; color: #343434; display: flex; flex-direction: row; justify-content: space-around; padding: 0; height: auto;">
        <ul style="list-style-type: disc; display: flex; flex-direction: column; align-items: center;">
           <img src="https://i.ibb.co/tXV1dC0/cup-icon.png" alt="" style="margin-bottom: 23px; height: 121px;">
@@ -134,13 +129,10 @@
             <li>to my dream list</li>
         </ul>
     </ol>
-
     <ol style="padding: 0; background: #d5c9bd url(https://i.ibb.co/k0s60W8/Screen-5-bg.png)no-repeat; position: relative; z-index: 1; background-size: cover; background-position-y: -188px;">
        <li style="display: flex; justify-content: center; align-items: center; padding: 114px 0 80px 0;">
            <img src="https://i.ibb.co/hBsVT5N/Tap-Menu-text.png" alt="">
        </li>
-
-
     <ol style="padding: 0; color: #49573b; font-family: system-ui; font-weight: 500; line-height: 1.3; font-size: 30px; width: 80%; margin: 0 auto;">
        <ul style="display: flex; padding: 0; list-style-type: none; justify-content: space-between; margin: 0 auto;     margin-bottom: -38px;">
             <li style="padding-left: 25px; border-radius: 10px; background: rgba(245, 254, 235, 0.6); width: 100%">PM / about pvt !!!!!!!</li>
@@ -207,16 +199,11 @@
             <li style="width: auto; min-width: 120px; background: #4a573c; font-weight: 900; color: #fff; border-radius: 10px; display: flex; justify-content: flex-end; align-items: center; padding-right: 20px;">10001</li>
         </ul>
 </ol>
-
     </ol>
     <ol style="padding: 0; background: #d5c9bd url(https://i.ibb.co/0tvrrYj/screen-4-bg.png) center no-repeat;     background-position-y: 77px; background-size: cover">
         <li style="display: flex; align-items: center; justify-content: center;">
             <img src="https://i.ibb.co/F8Db84P/footer-img.png" alt="">
         </li>
     </ol>
-
-
-
 </ul>
-
 </ul>
